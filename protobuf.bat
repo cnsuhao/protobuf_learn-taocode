@@ -1,0 +1,1 @@
+protoc -I=F:/TaoSVN/ProtoBuf_Learn/trunk --cpp_out=F:/TaoSVN/ProtoBuf_Learn/trunk F:/TaoSVN/ProtoBuf_Learn/trunk/test.proto
